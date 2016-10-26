@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+/SortedLinkedListBuild - Debug/
+/SortedLinkedListBuild - Release/
+/NinjaBuild - Release/
+/NinjaBuild - Debug/
